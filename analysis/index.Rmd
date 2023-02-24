@@ -9,3 +9,7 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+Este repositório foi criado para auxiliar minha experiência de aprendizado e integração do GitHub com o RStudio usando o workflowr.
+
+Meu primeiro código R neste projeto será nesta [página do hub do git](index.html)

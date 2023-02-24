@@ -1,0 +1,17 @@
+---
+title: "PCA"
+author: "nerilson"
+date: "2023-02-24"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+Testando o knit
+
+```{r}
+
+```
+
